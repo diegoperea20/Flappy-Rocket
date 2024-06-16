@@ -14,7 +14,7 @@ export default function Home() {
             <h3>Tap Tap or Click Click</h3>
             <div className="project-github">
       <p>This project is in </p>
-      <Link href="https://github.com/diegoperea20">
+      <Link href="https://github.com/diegoperea20/Flappy-Rocket">
         <img width="96" height="96" src="https://img.icons8.com/fluency/96/github.png" alt="github"/>
       </Link>
     </div>
