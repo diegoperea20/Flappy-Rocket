@@ -7,8 +7,13 @@ Nextjs Flappy Rocket , inspired by the flappy bird game where you can tap or cli
 <p align="center">
   <img src="README-images/mirockett.gif" alt="Step1">
 </p>
+
 <p align="center">
-  <img src="README-images/gameover.PNG" alt="Step2">
+  <img src="README-images/flappyrocket.PNG" alt="Step2">
+</p>
+
+<p align="center">
+  <img src="README-images/gameover.PNG" alt="Step3">
 </p>
 
 <p align="justify">
